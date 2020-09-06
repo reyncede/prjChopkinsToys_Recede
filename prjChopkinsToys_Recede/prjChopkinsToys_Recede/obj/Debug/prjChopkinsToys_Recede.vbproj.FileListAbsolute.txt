@@ -1,0 +1,12 @@
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\bin\Debug\prjChopkinsToys_Recede.exe.config
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\bin\Debug\prjChopkinsToys_Recede.exe
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\bin\Debug\prjChopkinsToys_Recede.pdb
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\bin\Debug\prjChopkinsToys_Recede.xml
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.vbprojAssemblyReference.cache
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.Form1.resources
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.Resources.resources
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.vbproj.GenerateResource.cache
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.vbproj.CoreCompileInputs.cache
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.exe
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.xml
+C:\Users\donta\source\repos\prjChopkinsToys_Recede\prjChopkinsToys_Recede\obj\Debug\prjChopkinsToys_Recede.pdb
